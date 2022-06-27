@@ -1,0 +1,4 @@
+.gradle
+**/build
+log4j2_logs
+.idea
